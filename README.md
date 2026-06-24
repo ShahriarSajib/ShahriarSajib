@@ -85,8 +85,8 @@ I am a passionate **Software Engineering** student at **IICT, SUST**. By day, I 
 
 ## 📊 Bat-Computer Diagnostics (GitHub Stats)
 ### ⚔️ Current Status: Training to be the World's Greatest Swordsman
-<p align="left">
-  <img src="https://raw.githubusercontent.com/ShahriarSajib/ShahriarSajib/main/zoro-banner.png" width="100%" alt="Zoro Banner" onerror="this.src='https://i.imgur.com/L8p5W2x.png'"/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Zoro Banner" />
 </p>
 
 > *"If I die here, then I'm a man who could only go this far."* — **Roronoa Zoro**
